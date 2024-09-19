@@ -1,4 +1,4 @@
-[! [MasterHead](https://i.pinimg.com/564x/d8/19/b4/d819b493fc5d49792601e254c7421ed6.jpg)
+[![MasterHead](https://i.pinimg.com/564x/d8/19/b4/d819b493fc5d49792601e254c7421ed6.jpg)
 <h1 align="center">Hi 👋, I'm Bahar</h1>
 <h3 align="center">Cybersecurity enthusiast with a focus on developing tools for network security. Exploring backend development as I continue to expand my knowledge in software engineering.</h3>
 
