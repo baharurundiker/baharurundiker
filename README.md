@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHjGXehRTk1aQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703019538050?e=1732147200&v=beta&t=tqxtBmAfKPRnH6xKlhaT-W-3bxCAnIVia_INOFFZ_yo)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHjGXehRTk1aQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703019538050?e=1738195200&v=beta&t=oNhbR6YM7-eZ_fGmd-uoxqswQrxSmEbRrsSxWDHyYOQ)
 <h1 align="center">Hi 👋, I'm Bahar</h1>
 <h3 align="center">Cybersecurity enthusiast with a focus on developing tools for network security. Exploring backend development as I continue to expand my knowledge in software engineering.</h3>
 
